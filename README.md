@@ -17,14 +17,16 @@ This will be how we contribute notes to the overall campaign.
 Download and install Ollama - https://ollama.com/download/windows this will allow you to run models locally!
 #### Ollama custom models
 
-For Players - ollama create player-model -f ./Modelfile
-For DM - ollama create dm-loremaster -f ./DM/Modelfile
+For Players - `ollama create player-model -f ./Modelfile`
+For DM - `ollama create dm-loremaster -f ./DM/Modelfile`
 
 Then you can run the custom model - `ollama run dm-loremaster` or `ollama run player-model`
 
 #### Update For your Character
 
 You will need to create a ./Character/<your_character_name> folder, and insert stuff you want in that folder. In your ./Modelfile - you `need to replace` the line `MESSAGE user "./Character/Naia_Stillwater` with your characters name!
+
+(If you ran the model create, just run it again, it will recreate it for you!)
 
 ## Optional
 
