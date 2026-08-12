@@ -24,9 +24,17 @@ Then you can run the custom model - `ollama run dm-loremaster` or `ollama run pl
 
 #### Update For your Character
 
-You will need to create a ./Character/<your_character_name> folder, and insert stuff you want in that folder. In your ./Modelfile - you `need to replace` the line `MESSAGE user "./Character/Naia_Stillwater` with your characters name!
+Command Prompt
 
-(If you ran the model create, just run it again, it will recreate it for you!)
+```
+(type Character\Naia_Stillwater\*.md & echo. & set /p ="") | ollama run player-model
+```
+
+Powershell
+
+```
+Get-Content .\Character\Naia_Stillwater\*.md | ollama run player-model
+```
 
 ## Optional
 

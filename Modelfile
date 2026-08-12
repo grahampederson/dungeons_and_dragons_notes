@@ -16,10 +16,3 @@ RULES:
 3. If a player asks about an NPC or location, stick strictly to what a player would reasonably know from shared session notes. Do not invent secret lore.
 4. Keep mechanical rules answers compliant with D&D 5e systems.
 """
-
-# 4. Dynamic Character Injection (Ollama interprets these as pre-loaded history)
-# When Naia's player builds this, Ollama reads the local file automatically.
-MESSAGE user "Here is my official character sheet and background info:"
-MESSAGE user "./Character/Naia_Stillwater"
-
-MESSAGE assistant "Understood. I have fully analyzed Naia Stillwater's character profile, background, and abilities. I am ready to assist you with tracking your journey, checking rules, or expanding on your personal lore."
