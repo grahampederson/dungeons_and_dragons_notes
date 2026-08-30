@@ -1,10 +1,10 @@
 # Naia Stillwater
 
-**Last updated:** 2023-10-01
+**Last updated:** 2023-10-02
 **Source(s):** My backstory hurts - Graham.md, Naia Stillwater.md
 
 ## Summary
-Naia Stillwater, known as "The Leak," is a Water Genasi Monk with a unique backstory and a strong sense of duty. She was raised in the Cistern Monastery, where she learned to control water through rigorous training. After a traumatic event during a storm, she left the monastery to seek answers about her parents' fate. Naia is driven by a desire to understand the past and prove her belief in the power of discipline.
+Naia Stillwater, known as "The Leak," is a Water Genasi Monk with a unique backstory and a strong sense of duty. Raised in the Cistern Monastery, she learned to control water through rigorous training. After a traumatic event during a storm, she left the monastery to seek answers about her parents' fate. Naia is driven by a desire to understand the past and prove her belief in the power of discipline.
 
 ## Details
 Naia is a vibrant and meticulous character, with a serene demeanor that belies her inner strength. She is fiercely loyal to her friends, particularly Coen Ashgrove, and is driven by a deep-seated need to understand the world around her. Her training as a monk has given her a unique perspective on control and discipline, but it has also made her vulnerable to situations where she must let go and embrace chaos.
