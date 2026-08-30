@@ -22,7 +22,6 @@ Tav likes fixing things and salvaging ruins to find practical solutions to probl
 Tav wants to leave things working better than he found them and doesn't need fame, wealth, or recognition as a great hero. He is afraid he'll never know when to stop looking for the next problem.
 
 ## Related
-- [[Naia Stillwater]] — Tav's sister and a practicing wizard.
 - [[Elira Runewick]] — Tav's older sister and a practicing wizard.
 - [[Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
 - [[Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
