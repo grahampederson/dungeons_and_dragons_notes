@@ -1,6 +1,6 @@
 # Naia Stillwater
 
-**Last updated:** 2023-10-02
+**Last updated:** 2026-09-12
 **Source(s):** My backstory hurts - Graham.md, Naia Stillwater.md
 
 ## Summary
@@ -16,6 +16,6 @@ Naia's relationships are complex. She has a deep bond with Coen, who taught her 
 Naia's character is a testament to the power of discipline and the importance of facing one's fears. She is a complex and multi-dimensional character, with a rich backstory and a strong sense of purpose.
 
 ## Related
-- [[Coen Ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
-- [[Master Ithren]] — Naia's mentor and the monk who found and raised her at the Cistern Monastery.
-- [[Sera Voss]] — Naia's rival and former fellow initiate at the Cistern Monastery.
+- [[coen-ashgrove|Coen Ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
+- [[master-ithren|Master Ithren]] — Naia's mentor and the monk who found and raised her at the Cistern Monastery.
+- [[sera-voss|Sera Voss]] — Naia's rival and former fellow initiate at the Cistern Monastery.

@@ -1,6 +1,6 @@
 # Tavian “Tav” Runewick
 
-**Last updated:** 2023-10-01
+**Last updated:** 2026-09-12
 **Source(s):** Tavian_Runewick.md
 
 ## Summary
@@ -22,7 +22,7 @@ Tav likes fixing things and salvaging ruins to find practical solutions to probl
 Tav wants to leave things working better than he found them and doesn't need fame, wealth, or recognition as a great hero. He is afraid he'll never know when to stop looking for the next problem.
 
 ## Related
-- [[Elira Runewick]] — Tav's older sister and a practicing wizard.
-- [[Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
-- [[Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
-- [[Rune Thing™]] — The ancient divine object Tav encountered.
+- [[elira-runewick|Elira Runewick]] — Tav's older sister and a practicing wizard.
+- [[mirabel-runewick|Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
+- [[corvin-drell|Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
+- Rune Thing™ — the ancient divine object/mechanism Tav fixed. No page yet: the source material explicitly leaves it undefined ("please make it whatever fits the campaign"), so a wiki entry would have to invent details not yet decided. Revisit once the DM/table settles what it actually is.
