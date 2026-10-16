@@ -41,3 +41,9 @@ content — see each linked page for details.
 - [[corvin-drell|Professor Corvin Drell]] — Tav's former professor, no stated family in source material.
 - [[garrick-vale|Garrick Vale]] — Rowan's mentor, no stated family in source material.
 - [[calder-holt|Calder Holt]] — Rowan's friend/conflict partner from Bellweather, no stated family in source material.
+- [[grey-pilgrim|The Grey Pilgrim]] — mysterious figure, no identity or ties established.
+- [[mara-thorne|Mara Thorne]] — innkeeper at the Hearth and Hollow in Oakhaven, no stated family in source material.
+- [[brennick|Brennick]] — dwarf mercenary in Oakhaven, no stated family in source material.
+- [[clayton|Clayton]] — Jaecron's busking friend in Oakhaven, no stated family in source material.
+- [[laurel|Laurel]] — Mayor Major Deuce's assistant in Oakhaven, no stated family in source material.
+- [[major-deuce|Mayor Major Deuce]] — mayor of Oakhaven, no stated family in source material.

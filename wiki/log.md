@@ -110,3 +110,70 @@ written down anywhere before, so filed it back into `naia-stillwater.md`
 as a new "Combat flavor note" in Details, with concrete physical tells
 (skin ripples, breathing rhythm) for narrating a Focus spend at the
 table.
+
+## 2026-10-16 — Ingest
+Source: `Campaigns/the_remembered_and_forgotten/sessions/Session 1.md`
+(the campaign's first session notes — `Campaigns/` and `DM/` were empty
+as of the last check; this is the first real session-notes ingest).
+File mixes the user's own quick handwritten notes, a Fathom-generated
+structured recap (Key Takeaways/Topics/Next Steps), and a full raw
+transcript; relied primarily on the handwritten notes + structured recap,
+spot-checked specific names/events (Laurel, Deuce, Clayton, the kids'
+names, the Bellweather/Daughtry sigil moment, the frying pan) against the
+raw transcript via grep rather than reading all ~5,700 lines.
+
+**New place:** `oakhaven.md` — where the party converged; covers the
+Hearth and Hollow inn, the mayor's office, and the trail behind the
+chapel.
+
+**New NPCs:** `grey-pilgrim.md` (the mysterious figure who drew all four
+PCs to Oakhaven — major cross-party thread), `mara-thorne.md` (innkeeper;
+explicitly disambiguated from the unrelated [[mara-mercer|Mara Mercer]]),
+`brennick.md`, `clayton.md`, `laurel.md`, `major-deuce.md`.
+
+**New quests:** `the-missing-children.md` (Active — 400 gp reward, trail
+found behind the chapel via a partial eclipse, dire wolf ambush survived,
+children still not found) and `the-crooked-painting.md` (On Hold —
+unresolved inn mystery).
+
+**Updated all four PC entries** (`naia-stillwater.md`,
+`tavian-runewick.md`, `jaecron-daughtry.md`, `rowan-mercer.md`) and
+`bellweather.md` with Session 1 events, each with a "Session 1 —
+Oakhaven" note and expanded Related links. Added the new Oakhaven NPCs to
+`families.md`'s Unaffiliated bucket and all new entries to `index.md`.
+
+**Flagged discrepancies (not resolved, needs a human):**
+- Naia's in-play HP this session is tracked as 22 (16 after the dire
+  wolf hit her), but her character sheet on file lists Max HP 17 at
+  level 2 — sheet may be stale.
+- The missing children's third name is inconsistent: "Beck" in the
+  Fathom structured summary vs. "Zeck"/"Zach" at different points in the
+  handwritten notes and live transcript (DM was audibly improvising names
+  live). Went with "Beck" as primary, noted the variants.
+- The assistant mayor's name: handwritten notes say "Moral," the
+  transcript consistently says "Laurel" — used Laurel as primary.
+- Tav's mentor's name: handwritten notes say "Edric Bane," but this is
+  almost certainly `Edric Veyne`, his already-established mentor from his
+  own backstory file — treated as the same person rather than a new one.
+- Brennick's surname: handwritten notes give "Brannack Holt," which
+  would share a surname with [[calder-holt|Calder Holt]] (Rowan's friend
+  from Bellweather) — flagged as an unconfirmed coincidence, not asserted
+  as a connection.
+- New unresolved plot threads surfaced and flagged rather than resolved:
+  Jaecron playing Mae's secret song with no explanation (noted on
+  `clayton.md` and `jaecron-daughtry.md`), and the Daughtry Arms sigil
+  having passed through Bellweather at some point (noted on
+  `jaecron-daughtry.md`, `rowan-mercer.md`, and `bellweather.md`).
+
+## 2026-10-16 — Lint (resolving flags from the Session 1 ingest)
+Player/DM resolved four of the discrepancies flagged above:
+- Naia's HP mismatch (22/16 in play vs. 17 on her sheet) — confirmed not
+  worth tracking down; softened the note in `naia-stillwater.md` rather
+  than deleting the fact outright.
+- The third missing child's name is **Zeck** (not "Beck") — corrected in
+  `the-missing-children.md` and `index.md`.
+- The assistant mayor's name is confirmed **Laurel** — removed the
+  "Moral"/mishearing hedge from `laurel.md`.
+- Tav's mentor is confirmed **Edric Veyne** (the session note's "Edric
+  Bane" was a mishearing of the same person) — removed the hedging
+  language in `tavian-runewick.md` and `grey-pilgrim.md`.

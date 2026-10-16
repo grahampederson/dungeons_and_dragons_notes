@@ -1,7 +1,7 @@
 # Tavian “Tav” Runewick
 
-**Last updated:** 2026-09-12
-**Source(s):** Tavian_Runewick.md
+**Last updated:** 2026-10-16
+**Source(s):** Tavian_Runewick.md, Session 1.md
 
 ## Summary
 Tavian Runewick is a rock gnome artificer and repairman from a respected lineage of wizard families. He switched from the traditional arcane track to the School of Applied Thaumaturgy and Mechanica due to his interest in practical applications of magic. Tav is known for his curiosity, experimentation, and engineering skills, often fixing ancient mechanisms and salvaging ruins. He encounters divine objects and artifacts, which he attempts to understand and improve.
@@ -21,11 +21,22 @@ Tav likes fixing things and salvaging ruins to find practical solutions to probl
 
 Tav wants to leave things working better than he found them and doesn't need fame, wealth, or recognition as a great hero. He is afraid he'll never know when to stop looking for the next problem.
 
+## Session 1 — Oakhaven
+Tav is in [[oakhaven|Oakhaven]] because his mentor, Edric Veyne, heard from the [[grey-pilgrim|Grey Pilgrim]] (this instance carrying a stick with a gold handle) that someone there knows about his Rune Thing™. (The session note spells the name "Edric Bane" — confirmed to be Edric Veyne, his established mentor.)
+
+At the Hearth and Hollow: tinkered with a bright light-emitting device at the bar until it worked (classic artificer puttering), earned a free round from Mara Thorne for the trouble. Gave his cherished tool roll to [[naia-stillwater|Naia]] to inspect — she reorganized it by size without being asked, which he took as a sign of a kindred respect for order. Tried (twice) to nail the Hearth and Hollow's crooked painting to the wall — see [[the-crooked-painting|The Crooked Painting]] — and offered to buy it outright; Mara Thorne declined.
+
+**Dire Wolf ambush** (on the trail behind the chapel, part of [[the-missing-children|The Missing Children]]): his Perception (19) caught the wolves' breathing in the bushes first, but his Stealth check (8) tipped them off and triggered the ambush. Surprised and knocked prone by Dire Wolf 1, taking 6 damage (17 → 11 HP). Stood and fought the rest of the encounter with an improvised weapon — a frying pan — landing two hits (9 damage each) on Dire Wolf 1, and used a bonus action at one point to gain +1 AC.
+
 ## Related
 - [[elira-runewick|Elira Runewick]] — Tav's older sister and a practicing wizard.
 - [[mirabel-runewick|Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
 - [[corvin-drell|Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
 - Rune Thing™ — the ancient divine object/mechanism Tav fixed. No page yet: the source material explicitly leaves it undefined ("please make it whatever fits the campaign"), so a wiki entry would have to invent details not yet decided. Revisit once the DM/table settles what it actually is.
+- [[oakhaven|Oakhaven]] — current location; party converged here in Session 1.
+- [[grey-pilgrim|The Grey Pilgrim]] — the lead that brought him to Oakhaven, via his mentor.
+- [[the-missing-children|The Missing Children]] — active quest he's working on with the party.
+- [[naia-stillwater|Naia]], [[jaecron-daughtry|Jaecron]], [[rowan-mercer|Rowan]] — fellow party members, met in Session 1.
 
 ## Art Reference
 **Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Hair/eye/skin color are unspecified in source and left open below.

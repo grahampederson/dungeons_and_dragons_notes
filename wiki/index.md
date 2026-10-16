@@ -29,9 +29,17 @@ etc.) see [[families]] rather than this flat list.
 - [[mara-mercer]] — Rowan's mother, co-owns the Bellweather family inn.
 - [[garrick-vale]] — Adventurer who mentored Rowan in travel and fighting.
 - [[calder-holt]] — Rowan's longtime friend and conflict partner from Bellweather.
+- [[grey-pilgrim]] — Mysterious figure who drew all four PCs to Oakhaven.
+- [[mara-thorne]] — Innkeeper at the Hearth and Hollow in Oakhaven.
+- [[brennick]] — Dwarf mercenary at the Hearth and Hollow; lost an arm-wrestling match to Rowan.
+- [[clayton]] — Jaecron's busking friend in Oakhaven.
+- [[laurel]] — Mayor Major Deuce's assistant in Oakhaven.
+- [[major-deuce]] — Mayor of Oakhaven; offered 400 gp to find four missing children.
 
 ## Places
 - [[bellweather]] — Crossroads town; Rowan Mercer's hometown, home to the Mercer family inn.
+- [[oakhaven]] — Town where the party converged in Session 1; home to the Hearth and Hollow inn.
 
 ## Quests
-_None yet._
+- [[the-missing-children]] — **Active.** Find four missing children (Mira, Colin, Zeck, Frank) from Oakhaven; trail found, dire wolf ambush survived, children not yet located.
+- [[the-crooked-painting]] — **On Hold.** Unresolved mystery: a painting at the Hearth and Hollow that re-crooks itself.
