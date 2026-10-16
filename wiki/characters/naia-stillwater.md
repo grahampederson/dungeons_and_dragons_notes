@@ -15,6 +15,8 @@ Naia's relationships are complex. She has a deep bond with Coen, who taught her 
 
 Naia's character is a testament to the power of discipline and the importance of facing one's fears. She is a complex and multi-dimensional character, with a rich backstory and a strong sense of purpose.
 
+**Combat flavor note:** Her Monk's Focus mechanic (Flurry of Blows, Patient/Focused Patient Defense, Step of the Wind) maps well onto her unresolved discipline-vs-raw-self tension. Framing: strikes/actions that *don't* cost a Focus Point are her trained technique — the stillness she was taught. Spending a Focus Point is her reaching for the thing underneath the training — the same raw, uncontrolled something that let her pull Coen out from under the collapsed beam, which Ithren called "not your training, that was you." She doesn't fully trust that reserve even though it works. Good physical tells for it at the table: the color-ripples under her skin moving faster/brighter, or her usually-even breathing/footwork rhythm (the *tok...tok...tok* she's known for) briefly losing its evenness right as she commits the point.
+
 ## Related
 - [[coen-ashgrove|Coen Ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
 - [[master-ithren|Master Ithren]] — Naia's mentor and the monk who found and raised her at the Cistern Monastery.

@@ -97,3 +97,16 @@ Added the same section to `rowan-mercer.md` as well — his source material
 is unusually specific about physical appearance (build, brown hair,
 stubble, exact gear), so that prompt could be written concrete rather
 than left open like the others.
+
+## 2026-10-15 — Query
+Asked how Naia's Monk's Focus mechanic (Flurry of Blows, Patient/Focused
+Patient Defense, Step of the Wind) could be played thematically in
+combat. Answered from her character sheet mechanics plus her established
+personality/backstory — connected the "Focus Point spent vs. not spent"
+split to her core unresolved tension (trained discipline vs. the raw,
+untrained thing that actually saved Coen during the flood, per Ithren's
+"that wasn't your training, that was you" line). That connection wasn't
+written down anywhere before, so filed it back into `naia-stillwater.md`
+as a new "Combat flavor note" in Details, with concrete physical tells
+(skin ripples, breathing rhythm) for narrating a Focus spend at the
+table.
