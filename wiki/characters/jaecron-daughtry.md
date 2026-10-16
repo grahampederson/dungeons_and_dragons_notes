@@ -23,3 +23,18 @@ His weakness is chasing a good time — sneaking out, drinking too much — whic
 - [[grandpa-daughtry|Grandpa Daughtry]] — grandfather, built Daughtry Arms, taught him to fight and to play music.
 - [[mama-daughtry|Mama Daughtry]] — mother, gentle and sweet.
 - [[pa-daughtry|Pa Daughtry]] — father, an arms dealer, largely absent from his life.
+
+## Art Reference
+**Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Jaecron's race and class are never actually stated in source, so this prompt is kept race/class-neutral rather than guessing; hair/eye/skin color are also unspecified. Revisit and tighten this once those are settled at the table.
+
+**Positive:**
+```
+Jaecron Daughtry, young man, pampered upbringing turned fugitive adventurer, worn but once-fine traveling clothes, banjo slung across his back, item bearing the mark of Daughtry Arms (a family arms-making business) at his hip, relaxed devil-may-care posture, faint restless energy in his eyes, leaning against a tavern doorway or campfire at night, warm firelight, hint of smoke from a pipe, mix of homebody comfort and reckless charm, fantasy character portrait, detailed, digital painting, trending on artstation, by Greg Rutkowski and Ruan Jia
+```
+
+**Negative:**
+```
+pristine noble clothing, royal armor, empty background, cartoon, low detail, extra limbs, blurry, text, watermark
+```
+
+**Suggested size:** SDXL portrait, 832×1216 (or 1024×1024 square if cropping to a bust shot).

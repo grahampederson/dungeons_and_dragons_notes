@@ -26,3 +26,18 @@ Tav wants to leave things working better than he found them and doesn't need fam
 - [[mirabel-runewick|Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
 - [[corvin-drell|Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
 - Rune Thing™ — the ancient divine object/mechanism Tav fixed. No page yet: the source material explicitly leaves it undefined ("please make it whatever fits the campaign"), so a wiki entry would have to invent details not yet decided. Revisit once the DM/table settles what it actually is.
+
+## Art Reference
+**Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Hair/eye/skin color are unspecified in source and left open below.
+
+**Positive:**
+```
+Tavian Runewick, rock gnome artificer, male gnome, small stature, weathered traveler's clothes layered with tool belts and pouches, battered leather tool roll slung across him, hands mid-tinkering with a salvaged mechanical component, notebook and loose schematics nearby, cluttered traveling workshop-wagon interior, warm lantern light, brass gears, half-disassembled ancient artifact on a workbench, curious intense expression, soot smudge on cheek, fantasy character portrait, detailed, digital painting, trending on artstation, by Greg Rutkowski and Ruan Jia
+```
+
+**Negative:**
+```
+tall, human proportions, heavy plate armor, clean pristine clothing, empty background, cartoon, low detail, extra fingers, blurry, text, watermark
+```
+
+**Suggested size:** SDXL portrait, 832×1216 (or 1024×1024 square if cropping to a bust shot).

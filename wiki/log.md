@@ -80,3 +80,20 @@ Garrick Vale and Calder Holt to the "Unaffiliated" bucket in `families.md`
 all five new entries (Rowan Mercer under Player characters; Mara Mercer,
 Garrick Vale, Calder Holt under NPCs; Bellweather under the now-populated
 Places section).
+
+## 2026-10-15 — Schema (minor)
+Added an optional "## Art Reference" section (after Related) to
+`naia-stillwater.md`, `tavian-runewick.md`, and `jaecron-daughtry.md`,
+storing the Stable Diffusion prompts generated for each in this session so
+they stay tied to the character they depict instead of living only in
+chat history. These are clearly marked as generated/not campaign source
+material, separate from each entry's `Source(s)` field. Flagged within
+each: Naia's hair/eyes/height, Tavian's hair/eye/skin color, and
+Jaecron's race/class entirely are unspecified in source — prompts were
+written race/detail-neutral rather than inventing canon. Revisit and
+tighten once any of these get settled at the table.
+
+Added the same section to `rowan-mercer.md` as well — his source material
+is unusually specific about physical appearance (build, brown hair,
+stubble, exact gear), so that prompt could be written concrete rather
+than left open like the others.

@@ -19,3 +19,18 @@ Naia's character is a testament to the power of discipline and the importance of
 - [[coen-ashgrove|Coen Ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
 - [[master-ithren|Master Ithren]] — Naia's mentor and the monk who found and raised her at the Cistern Monastery.
 - [[sera-voss|Sera Voss]] — Naia's rival and former fellow initiate at the Cistern Monastery.
+
+## Art Reference
+**Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Hair/eyes/height are unspecified in source (confirmed blank on the character sheet) and left open below rather than invented; pick and lock in a choice if one gets decided at the table.
+
+**Positive:**
+```
+Naia Stillwater, water genasi monk, young woman, skin with faint ripples of color moving beneath it like light through shallow water, catching firelight strangely, serene focused expression, shaved or close-cropped hair [or braided, artist's choice], monk robes, way of the open hand monk, crouched beside a cracked clay rain barrel fixing a leak, head tilted in concentration, battered water-stained notebook open on one knee with sketched circles and ripple diagrams, dim tavern/waystation interior, warm firelight mixed with cool blue-green undertones, dripping water droplets frozen mid-fall, half-submerged stone cistern monastery in background implied, fantasy character portrait, detailed skin texture, soft volumetric lighting, highly detailed, digital painting, trending on artstation, by Greg Rutkowski and Ruan Jia
+```
+
+**Negative:**
+```
+dry skin, no water effect, heavy armor, flashy robes, bright colorful background, cartoon, low detail, extra limbs, blurry, deformed hands, text, watermark
+```
+
+**Suggested size:** SDXL portrait, 832×1216 (or 1024×1024 square if cropping to a bust shot).
