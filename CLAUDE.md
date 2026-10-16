@@ -35,12 +35,20 @@ file will still be correct.
   visible at a glance instead of only inside each entry's Related section.
 - `wiki/characters/<slug>.md` — your output for each character, per the
   template and process in `AGENTS.md`.
-- `wiki/places/`, `wiki/quests/` — not created yet; add them (per
-  `AGENTS.md`) the first time a place or quest actually shows up in source
-  material. Don't pre-create empty structure.
-- No `campaign/` or session-notes folder exists yet. When one is added
-  (`AGENTS.md` expects something like `/campaign/sessions/`), that becomes
-  your other primary input alongside `Character/`.
+- `wiki/places/`, `wiki/quests/` — populated as of Session 1 (`oakhaven`,
+  `bellweather`; `the-missing-children`, `the-crooked-painting`). Keep
+  adding to these (per `AGENTS.md`) the first time a place or quest shows
+  up in source material — don't pre-create empty structure beyond that.
+- `wiki/sessions/<slug>.md` — a terse, skimmable recap of each session
+  (a few sentences + a short bullet list), per the template in
+  `AGENTS.md`. The point is to let a human review what happened in a
+  session without rereading the full note or transcript under
+  `Campaigns/`.
+- `Campaigns/<campaign-name>/sessions/*.md` — session notes, your other
+  primary input alongside `Character/`. **Read-only input** — never edit
+  these. Current campaign: `the_remembered_and_forgotten`; `Session 1.md`
+  exists (mix of handwritten notes, a Fathom-generated recap, and a full
+  transcript).
 - `.obsidian/` — Obsidian workspace config, not content. Leave it alone.
 - `run-aider*.ps1`, `update-wiki-characters.ps1` — Windows/aider tooling for
   running the same wiki-maintenance job with a local Ollama model. Not
@@ -50,8 +58,14 @@ file will still be correct.
 ## Working notes specific to you
 
 - Before updating the wiki (Ingest), check `git log`/`git diff` on
-  `Character/` (and `campaign/` once it exists) to see what's actually new
-  or changed — don't reprocess untouched source files.
+  `Character/` and `Campaigns/` to see what's actually new or changed —
+  don't reprocess untouched source files.
+- Whenever a new or changed session note shows up under
+  `Campaigns/*/sessions/`, besides the normal character/place/quest
+  ingest, create or update that session's terse `wiki/sessions/<slug>.md`
+  recap (per `AGENTS.md`'s template) and list it in `index.md` under
+  Sessions — that's the page meant for reviewing a session without
+  rereading the full note or transcript.
 - Filenames under `Character/` use `Name_Name` with underscores and spaces
   inconsistently (e.g. `Character/Naia_Stillwater/Naia Stillwater.md`); wiki
   slugs are always lowercase-hyphenated regardless of the source filename's

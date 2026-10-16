@@ -43,3 +43,8 @@ etc.) see [[families]] rather than this flat list.
 ## Quests
 - [[the-missing-children]] — **Active.** Find four missing children (Mira, Colin, Zeck, Frank) from Oakhaven; trail found, dire wolf ambush survived, children not yet located.
 - [[the-crooked-painting]] — **On Hold.** Unresolved mystery: a painting at the Hearth and Hollow that re-crooks itself.
+
+## Sessions
+Terse, skimmable recaps — one per session — so you can review what
+happened without rereading the full session note or transcript.
+- [[session-01|Session 1 — Oakhaven]] — the party converges on Oakhaven, meets each other, and takes the missing-children job.

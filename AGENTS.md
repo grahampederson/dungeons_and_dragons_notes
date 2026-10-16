@@ -15,7 +15,7 @@ read-only), the wiki (`/wiki` — what you maintain), and this file (the
 schema: structure, conventions, and the operations below).
 
 ## Wiki structure
-Maintain three top-level entry categories, one file per entry, plus three
+Maintain four top-level entry categories, one file per entry, plus three
 support files at the wiki root:
 
 /wiki/index.md
@@ -24,15 +24,16 @@ support files at the wiki root:
 /wiki/characters/<name>.md
 /wiki/places/<name>.md
 /wiki/quests/<name>.md
+/wiki/sessions/<name>.md
 
-Use lowercase-hyphenated filenames (e.g. `naia-stillwater.md`, `the-sunken-keep.md`).
+Use lowercase-hyphenated filenames (e.g. `naia-stillwater.md`, `the-sunken-keep.md`, `session-01.md`).
 
 **`index.md`** is a content catalog, organized by category (Characters /
-Places / Quests), one line per entry — name, one-line description, and
-status where applicable (quests especially). Update it whenever an entry
-is added or its status changes; it should always reflect what currently
-exists in `/wiki`. This is a flat catalog, not the place to show how people
-relate to each other — that's `families.md`.
+Places / Quests / Sessions), one line per entry — name, one-line
+description, and status where applicable (quests especially). Update it
+whenever an entry is added or its status changes; it should always reflect
+what currently exists in `/wiki`. This is a flat catalog, not the place to
+show how people relate to each other — that's `families.md`.
 
 **`log.md`** is an append-only, chronological record of what you did: one
 entry per Ingest/Query/Lint operation, with a date and a short note of what
@@ -76,6 +77,34 @@ whatever is relevant to this entry type>
 - [[other-entry]] — <how they connect>
 ```
 
+**Session entries** (`wiki/sessions/<name>.md`) use a lighter version of
+the template above — a terse, skimmable recap of one session, not a
+narrative retelling. The full session note (and raw transcript, if any)
+already lives in `/campaign`; the point of this page is that nobody has to
+reread that to remember what happened:
+
+```markdown
+# Session <N> — <short title>
+
+**Date played:** <date>
+**Source(s):** <session note file(s) this draws from>
+
+## Summary
+<2-4 sentence recap of what happened, in plain terms>
+
+## Key events
+- <one bullet per notable beat — a fight, a reveal, a decision, a new
+  character/place/quest introduced>
+
+## Related
+- [[other-entry]] — <how they connect>
+```
+
+Keep "Key events" to a handful of bullets, not a blow-by-blow — if it's
+getting long, that's a sign to push detail into the relevant
+character/place/quest entry instead and leave a cross-link here. Cross-link
+every character, place, and quest the session touches or introduces.
+
 ## Operations
 
 You have three modes of working with the wiki: **Ingest** (bring new source
@@ -104,6 +133,9 @@ periodically or when asked.
    update `families.md` if the source states a blood/household/affiliation
    tie for a new or existing character; and append a line to `log.md`
    noting what was ingested and what changed.
+7. If the source file being ingested is itself a session note, also
+   create or update that session's terse `wiki/sessions/<name>.md` recap
+   (see template above) and list it in `index.md` under Sessions.
 
 ### Query
 When asked a question about the campaign (a character, a place, lore, plot,
@@ -147,6 +179,9 @@ primary incremental trigger. When a new session note appears:
 - Update character entries with new events, relationships, or acquired
   items/abilities.
 - Add new places/NPCs/quests introduced in that session as new entries.
+- Create or update the session's own terse `wiki/sessions/<name>.md` recap
+  (per the template above) — this is the page a human reads to review the
+  session instead of rereading the full note or transcript.
 
 ## Content rules
 1. Maintain a clear, organized, reference-style tone — this is a lookup

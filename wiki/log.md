@@ -177,3 +177,22 @@ Player/DM resolved four of the discrepancies flagged above:
 - Tav's mentor is confirmed **Edric Veyne** (the session note's "Edric
   Bane" was a mishearing of the same person) — removed the hedging
   language in `tavian-runewick.md` and `grey-pilgrim.md`.
+
+## 2026-10-16 — Schema
+Added a fourth top-level entry category, `wiki/sessions/<name>.md`, per
+`AGENTS.md` (now updated with its own lighter template: Summary + Key
+events + Related, no full Details section) — the existing character/
+place/quest entries capture everything a session touches, but there was
+no single terse page to review what *happened* in a given session without
+rereading the full note/transcript under `Campaigns/`. Also fixed stale
+repo-layout notes in `CLAUDE.md` (it still said no `campaign/` folder and
+no `wiki/places`/`wiki/quests` existed; both have existed since the
+Session 1 ingest above) and added a working note there to create/update a
+session's recap whenever a new session note lands.
+
+Backfilled `wiki/sessions/session-01.md` from the existing Session 1
+ingest (no new source reading — drew from the entries and summary already
+on file: `oakhaven.md`, `grey-pilgrim.md`, `the-missing-children.md`,
+`the-crooked-painting.md`, `brennick.md`, `mara-thorne.md`, `laurel.md`,
+`major-deuce.md`, and the four PC entries). Added a new "## Sessions"
+section to `index.md`.
