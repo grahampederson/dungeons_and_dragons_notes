@@ -12,6 +12,7 @@ etc.) see [[families]] rather than this flat list.
 - [[naia-stillwater]] — Water Genasi Monk, "The Leak," left the Cistern Monastery to learn her parents' fate.
 - [[tavian-runewick]] — Rock gnome artificer/repairman, traveling salvager of ancient magical technology.
 - [[jaecron-daughtry]] — Daughtry Arms scion, fled home to escape Alister Vanderbuilt after Mae Vanderbuilt's death.
+- [[rowan-mercer]] — Human Fighter, "The Collector," left Bellweather to experience the extraordinary firsthand.
 
 ### NPCs
 - [[coen-ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
@@ -25,9 +26,12 @@ etc.) see [[families]] rather than this flat list.
 - [[grandpa-daughtry]] — Jaecron's grandfather, founder of Daughtry Arms.
 - [[mama-daughtry]] — Jaecron's mother.
 - [[pa-daughtry]] — Jaecron's father, an arms dealer.
+- [[mara-mercer]] — Rowan's mother, co-owns the Bellweather family inn.
+- [[garrick-vale]] — Adventurer who mentored Rowan in travel and fighting.
+- [[calder-holt]] — Rowan's longtime friend and conflict partner from Bellweather.
 
 ## Places
-_None yet._
+- [[bellweather]] — Crossroads town; Rowan Mercer's hometown, home to the Mercer family inn.
 
 ## Quests
 _None yet._

@@ -31,5 +31,13 @@ content — see each linked page for details.
 - [[coen-ashgrove|Coen Ashgrove]] — fellow student, Naia's closest friend.
 - [[sera-voss|Sera Voss]] — former student; left the monastery, now a rival of Naia's.
 
+### Mercer family
+**Type:** Blood family / household
+- Edric Mercer — father; co-owns the family inn in Bellweather with Mara. No page yet (only mentioned jointly with Mara in source — see `log.md`).
+- [[mara-mercer|Mara Mercer]] — mother; co-owns the family inn, the person Rowan is closest to.
+- [[rowan-mercer|Rowan Mercer]] — son; left Bellweather to adventure.
+
 ### Unaffiliated (no stated family/group ties yet)
 - [[corvin-drell|Professor Corvin Drell]] — Tav's former professor, no stated family in source material.
+- [[garrick-vale|Garrick Vale]] — Rowan's mentor, no stated family in source material.
+- [[calder-holt|Calder Holt]] — Rowan's friend/conflict partner from Bellweather, no stated family in source material.

@@ -61,3 +61,22 @@ Carried forward the two open items already noted above: Aldren Runewick
 has no page yet (listed in the Runewick group as a name only), and
 Rune Thing™ is still deliberately unpaged. `index.md` now points to
 `families.md` for relationship structure instead of duplicating it.
+
+## 2026-10-15 — Ingest
+Source: `Character/Rowan Mercer/Rowan Mercer.md` (new — no prior wiki
+entry existed; confirmed via `git log -- Character/` that this was the
+only new/changed source file since the last ingest, and that
+`Campaigns/` and `DM/` are still empty, no session notes yet). Created
+`rowan-mercer.md` (PC) plus three NPC entries and one new place: `mara-mercer`,
+`garrick-vale`, `calder-holt`, and the wiki's first Places entry,
+`bellweather.md` (Rowan's hometown). `garrick-vale.md` and `calder-holt.md`
+are thin — source gives little beyond relationship and one or two traits;
+flagging for expansion if more source material appears. Added the Mercer
+family group to `families.md` (Mara, Rowan, and Edric Mercer as a name-only
+member — same treatment as Aldren Runewick: mentioned only jointly with his
+spouse, no individual characterization in source, so no page yet). Added
+Garrick Vale and Calder Holt to the "Unaffiliated" bucket in `families.md`
+(mentors/friends, no stated blood/household tie). Updated `index.md` with
+all five new entries (Rowan Mercer under Player characters; Mara Mercer,
+Garrick Vale, Calder Holt under NPCs; Bellweather under the now-populated
+Places section).
