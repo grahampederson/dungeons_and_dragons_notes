@@ -1,7 +1,7 @@
 # Tavian “Tav” Runewick
 
-**Last updated:** 2026-10-16
-**Source(s):** Tavian_Runewick.md, Session 1.md
+**Last updated:** 2026-11-01
+**Source(s):** Tavian_Runewick.md, Session 1.md, Session 2.md
 
 ## Summary
 Tavian Runewick is a rock gnome artificer and repairman from a respected lineage of wizard families. He switched from the traditional arcane track to the School of Applied Thaumaturgy and Mechanica due to his interest in practical applications of magic. Tav is known for his curiosity, experimentation, and engineering skills, often fixing ancient mechanisms and salvaging ruins. He encounters divine objects and artifacts, which he attempts to understand and improve.
@@ -28,15 +28,25 @@ At the Hearth and Hollow: tinkered with a bright light-emitting device at the ba
 
 **Dire Wolf ambush** (on the trail behind the chapel, part of [[the-missing-children|The Missing Children]]): his Perception (19) caught the wolves' breathing in the bushes first, but his Stealth check (8) tipped them off and triggered the ambush. Surprised and knocked prone by Dire Wolf 1, taking 6 damage (17 → 11 HP). Stood and fought the rest of the encounter with an improvised weapon — a frying pan — landing two hits (9 damage each) on Dire Wolf 1, and used a bonus action at one point to gain +1 AC.
 
+## Session 2 — The Watchtower
+- **Gadgets:** turned a light orb into an owlbear-noise device (Arcana 20; it actually played two owlbears mating) with a stink-bomb trigger when stabbed, and gave it to [[rowan-mercer|Rowan]] to throw. Later threw a second stink ball at [[seamus|Seamus]] and tried to pass one off to [[sarah|"Sarah"]] as a message recorder (she saw through it). Dropped ball bearings along the trail as markers, and handed Rowan crampons and a piton for climbing the tower.
+- **The map:** restored [[linus|Linus]]'s torn map of Oakhaven with his magic stapler (copying the missing corner) and added his maker's mark. While working he recalled his mentor Edric Veyne's advice: "Don't just look at it — see it."
+- **Time weirdness:** noticed his footsteps' sound arriving a split second late, though no one else could hear it. Incinerated two crows with Firebolt (23, 17 to hit). When his crossbow bolt hit a third crow, it burst into feathers with no body.
+- **Rune Thing™ (first in-play activity):** in the [[the-watchtower|watchtower]], he found a metal piece whose marking matches the script on his Rune Thing™ (Investigation 24). The Rune Thing™ then pulsed, faster near a corner stone carrying a matching symbol. Touching the two together turned the pulse to a solid glow and opened a hidden stairway to the basement basin. He was openly annoyed that the divine entity "couldn't just say it."
+- **Loot/other:** received one of the two potions of healing. Promised [[jaecron-daughtry|Jaecron]] an instrument from his cart back in town. Mechanics noted by the player: currently has Enhanced Weapon/Armor-style infusions (+1 sword, +1 armor) to hand out, and his level-3 subclass is undecided (Artillerist under consideration).
+
 ## Related
 - [[elira-runewick|Elira Runewick]] — Tav's older sister and a practicing wizard.
 - [[mirabel-runewick|Professor Mirabel Runewick]] — Tav's mother and a practicing wizard.
 - [[corvin-drell|Professor Corvin Drell]] — Tav's former professor and a cautious scholar.
-- Rune Thing™ — the ancient divine object/mechanism Tav fixed. No page yet: the source material explicitly leaves it undefined ("please make it whatever fits the campaign"), so a wiki entry would have to invent details not yet decided. Revisit once the DM/table settles what it actually is.
+- Rune Thing™ — the ancient divine object/mechanism Tav fixed. No page yet: the source material explicitly leaves it undefined ("please make it whatever fits the campaign"), so a wiki entry would have to invent details not yet decided. Revisit once the DM/table settles what it actually is. *(Session 2: it now has observed in-play behavior. It pulses near matching symbols and opened the watchtower basement; see Session 2 above. Still unpaged because its nature remains undefined.)*
 - [[oakhaven|Oakhaven]] — current location; party converged here in Session 1.
 - [[grey-pilgrim|The Grey Pilgrim]] — the lead that brought him to Oakhaven, via his mentor.
 - [[the-missing-children|The Missing Children]] — active quest he's working on with the party.
 - [[naia-stillwater|Naia]], [[jaecron-daughtry|Jaecron]], [[rowan-mercer|Rowan]] — fellow party members, met in Session 1.
+- [[the-watchtower|The Watchtower]] — his Rune Thing™ opened its hidden basement (Session 2).
+- [[linus|Linus]], [[seamus|Seamus]] — fixed their map; stink-bombed Seamus (Session 2).
+- [[session-02|Session 2]] — recap.
 
 ## Art Reference
 **Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Hair/eye/skin color are unspecified in source and left open below.

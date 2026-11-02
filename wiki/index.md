@@ -35,16 +35,23 @@ etc.) see [[families]] rather than this flat list.
 - [[clayton]] — Jaecron's busking friend in Oakhaven.
 - [[laurel]] — Mayor Major Deuce's assistant in Oakhaven.
 - [[major-deuce]] — Mayor of Oakhaven; offered 400 gp to find four missing children.
+- [[seamus]] — Green-cloaked traveler camped by the river outside Oakhaven; robbed and stink-bombed by the party.
+- [[linus]] — Seamus's chattier companion; Tav fixed his map of Oakhaven.
+- [[varus]] — Leader of a treasure-hunting trio after the watchtower's rumored treasure.
+- [[sarah]] — Hot-headed treasure hunter (name spelling unsettled); possibly Sera Voss, unconfirmed.
+- [[dunkirk]] — Big, silent treasure hunter; broke a wagon wheel in Oakhaven over the watchtower.
 
 ## Places
 - [[bellweather]] — Crossroads town; Rowan Mercer's hometown, home to the Mercer family inn.
 - [[oakhaven]] — Town where the party converged in Session 1; home to the Hearth and Hollow inn.
+- [[the-watchtower]] — Ancient tower on a cliff over Oakhaven that townsfolk deny exists; hidden basement holds a portal-like basin.
 
 ## Quests
-- [[the-missing-children]] — **Active.** Find four missing children (Mira, Colin, Zeck, Frank) from Oakhaven; trail found, dire wolf ambush survived, children not yet located.
+- [[the-missing-children]] — **Active.** Find four missing children (Mira, Colin, Zeck, Frank) from Oakhaven; trail followed to the watchtower; party went through a portal-like basin in its basement; children not yet located.
 - [[the-crooked-painting]] — **On Hold.** Unresolved mystery: a painting at the Hearth and Hollow that re-crooks itself.
 
 ## Sessions
 Terse, skimmable recaps — one per session — so you can review what
 happened without rereading the full session note or transcript.
 - [[session-01|Session 1 — Oakhaven]] — the party converges on Oakhaven, meets each other, and takes the missing-children job.
+- [[session-02|Session 2 — The Watchtower]] — river camp detour, time weirdness, the watchtower, and into the basin portal.

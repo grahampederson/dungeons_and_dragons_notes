@@ -1,7 +1,7 @@
 # Rowan Mercer
 
-**Last updated:** 2026-10-16
-**Source(s):** Rowan Mercer.md, Session 1.md
+**Last updated:** 2026-11-01
+**Source(s):** Rowan Mercer.md, Session 1.md, Session 2.md
 
 ## Summary
 Rowan Mercer is a 27-year-old human Fighter, concept "The Collector" — an adventurous, easygoing young man who grew up at his family's inn in [[bellweather|Bellweather]] and left to go experience the kinds of stories he spent his childhood hearing from travelers. His core belief: *nobody does anything great alone.*
@@ -22,6 +22,12 @@ At the Hearth and Hollow: beat [[brennick|Brennick]], a dwarf mercenary, 2-1 in 
 
 **Dire Wolf ambush** (on the trail behind the chapel, part of [[the-missing-children|The Missing Children]]): missed his attack on Dire Wolf 2 but dealt 5 "graze" damage. Later took 6 damage from Dire Wolf 1 (17 → 11 HP), then landed the killing blow on Dire Wolf 2 (22 to hit, 14 damage).
 
+## Session 2 — The Watchtower
+- Led the party into the woods after the third wolf's tracks. Threw [[tavian-runewick|Tav]]'s owlbear gadget over the river camp like an Olympian (Strength 23) and lodged it in an oak.
+- Crossing the river, he tripped and spilled his **collector bag** of keepsakes ("this cannot happen, this is not a good sign"). Insight (14) read [[seamus|Seamus]] and [[linus|Linus]] as sincere.
+- Floated the theory that only certain people perceive the area's changes, since [[naia-stillwater|Naia]] saw the river run backward and the campers didn't. He also suspected the crows were the same crow coming back.
+- At [[the-watchtower|the watchtower]]: introduced himself to the treasure hunters and persuaded them (20) to help. Carried [[jaecron-daughtry|Jaecron]] up the hill, threw a grappling hook, and climbed the outside of the tower with Tav's crampons. He slipped once and took 2 damage, then made the top and roped the others up.
+
 ## Related
 - [[bellweather|Bellweather]] — hometown; grew up at his parents' inn there, still feels like home.
 - [[mara-mercer|Mara Mercer]] — mother; the person he's closest to and can always go home to. (Father Edric Mercer co-owns the inn but has no individual characterization in source material yet.)
@@ -34,6 +40,9 @@ At the Hearth and Hollow: beat [[brennick|Brennick]], a dwarf mercenary, 2-1 in 
 - [[the-missing-children|The Missing Children]] — active quest he's working on with the party.
 - [[jaecron-daughtry|Jaecron]] — recognized his family's sigil, tying it back to Bellweather.
 - [[naia-stillwater|Naia]], [[tavian-runewick|Tav]] — fellow party members, met in Session 1.
+- [[the-watchtower|The Watchtower]] — climbed it to get the party in (Session 2).
+- [[varus|Varus]] — persuaded his trio to help (Session 2).
+- [[session-02|Session 2]] — recap.
 
 ## Art Reference
 **Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Unlike the other PCs, source material here actually gives physical detail (build, hair, stubble, exact gear), so this prompt is more concrete rather than open-ended.

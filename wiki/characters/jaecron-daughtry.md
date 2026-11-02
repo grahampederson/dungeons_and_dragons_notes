@@ -1,7 +1,7 @@
 # Jaecron Daughtry
 
-**Last updated:** 2026-10-16
-**Source(s):** Jaecron Daughtry.md, Session 1.md
+**Last updated:** 2026-11-01
+**Source(s):** Jaecron Daughtry.md, Session 1.md, Session 2.md
 
 ## Summary
 Jaecron Daughtry is a pampered-upbringing rogue-ish adventurer who fled his hometown to escape trial or death at the hands of [[alister-vanderbuilt|Alister Vanderbuilt]] after the death of his lover, [[mae-vanderbuilt|Mae Vanderbuilt]]. He values individuality above social norms, splits his time between homebody comforts and sneaking out to mix with townsfolk, and is driven by a need to test his own limits.
@@ -26,6 +26,14 @@ Jaecron is in [[oakhaven|Oakhaven]] because an old musician was told by the [[gr
 
 **Dire Wolf ambush** (on the trail behind the chapel, part of [[the-missing-children|The Missing Children]]): missed his first attack against Dire Wolf 1, but landed the killing blow on it later (14 to hit, 8 damage) while it was fighting [[tavian-runewick|Tav]].
 
+## Session 2 — The Watchtower
+- Fixed the shoe he wrecked on last session's critical miss by casting Mending with a patch of dire wolf hide.
+- Cast Detect Magic where the third wolf's tracks vanished and found nothing. A natural 20 on Perception spotted the smoke that led the party to [[seamus|Seamus]] and [[linus|Linus]]'s river camp. Gave [[naia-stillwater|Naia]] Bardic Inspiration before she crossed the river. Wary of the strangers ("I'm weary of strangers").
+- Got carried up the watchtower hill on [[rowan-mercer|Rowan]]'s shoulders, and later hauled up the tower wall by Rowan.
+- Holds the **journal** found in [[the-watchtower|the watchtower]] (stars "different than they were," "humming a weird melody," "this treasure is taking a toll on me").
+- [[tavian-runewick|Tav]] promised him an instrument from his cart back in town.
+- **Out-of-game flag:** the player noted this character sheet was taken over from another character and carries about 500 gp and 450 pp, probably more than intended. To be sorted out with the DM.
+
 ## Related
 - [[mae-vanderbuilt|Mae Vanderbuilt]] — deceased lover; someone he loved deeply.
 - [[alister-vanderbuilt|Alister Vanderbuilt]] — Mae's father, believes Jaecron is responsible for her death, the reason Jaecron fled town.
@@ -38,6 +46,8 @@ Jaecron is in [[oakhaven|Oakhaven]] because an old musician was told by the [[gr
 - [[the-missing-children|The Missing Children]] — active quest he's working on with the party.
 - [[rowan-mercer|Rowan]] — recognized the Daughtry Arms sigil, tying his sword to [[bellweather|Bellweather]].
 - [[naia-stillwater|Naia]], [[tavian-runewick|Tav]] — fellow party members, met in Session 1.
+- [[the-watchtower|The Watchtower]] — carries the journal found there (Session 2).
+- [[session-02|Session 2]] — recap.
 
 ## Art Reference
 **Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Jaecron's race and class are never actually stated in source, so this prompt is kept race/class-neutral rather than guessing; hair/eye/skin color are also unspecified. Revisit and tighten this once those are settled at the table.

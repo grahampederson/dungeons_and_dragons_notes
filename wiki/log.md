@@ -196,3 +196,59 @@ on file: `oakhaven.md`, `grey-pilgrim.md`, `the-missing-children.md`,
 `the-crooked-painting.md`, `brennick.md`, `mara-thorne.md`, `laurel.md`,
 `major-deuce.md`, and the four PC entries). Added a new "## Sessions"
 section to `index.md`.
+
+## 2026-11-01 — Ingest
+Source: `Campaigns/the_remembered_and_forgotten/sessions/Session 2.md`
+(new, untracked; the only new or changed source since the Session 1 ingest).
+Unlike Session 1, this file is **only** a raw Fathom transcript (~8,000
+lines, 155 min) with no handwritten notes or structured recap. Read the
+full transcript in condensed form. Fathom's speaker labels are unreliable
+here (the DM's lines are often credited to players and vice versa), so
+events were attributed from context: DM = Logan, Naia = Graham,
+Tav = chewtoydaddy25, Rowan = Brother Smiley (Cameron), Jaecron = Jaecron.
+
+**New session recap:** `sessions/session-02.md`.
+
+**New place:** `places/the-watchtower.md`, covering exterior, interior, journal, and the basement basin portal.
+
+**New NPCs:** `seamus.md`, `linus.md` (river camp), `varus.md`,
+`sarah.md`, `dunkirk.md` (treasure-hunting trio at the tower). Added all
+to `index.md` and to the Unaffiliated bucket in `families.md`.
+
+**Updated:** all four PC entries (new "Session 2 — The Watchtower"
+sections, Related links), `the-missing-children.md` (still **Active**;
+trail followed to the watchtower, party went through the basin; index
+line updated), `oakhaven.md` (surroundings: river, watchtower, concert
+timing), `sera-voss.md` (possible-sighting note). `the-crooked-painting.md`
+was only mentioned in passing (party plans to recheck it after finding the
+kids), so it's unchanged.
+
+**Flagged, needs a human:**
+- **Treasure-hunter names are uncertain.** The transcript renders the
+  leader as "Bear"/"Varus"/"Varys"/"Vera" and the woman as
+  "Sarah"/"Serra"/"Sarus"/"Sarasaris". Used Varus and "Sarah"
+  provisionally. The big man is "Dunkirk", with one "Gron" (probably a
+  mishearing).
+- **Is "Sarah" actually Sera Voss?** Naia felt an unexplained familiarity
+  toward her, and the name is close. Noted as a possibility only, on both
+  pages. Not asserted and not added to the Cistern Monastery group.
+- **Session 1 → 2 link:** identified Sarah and Dunkirk as the pair who
+  bullied a wagon driver about the watchtower in Session 1. The DM said so
+  in Session 2 ("the people… yelling at that one guy"), and Session 1's
+  transcript confirms the scene. That scene hadn't been captured in the
+  wiki before; it's now on `the-watchtower.md`, `sarah.md`, and
+  `dunkirk.md`.
+- **Possible affiliation, not asserted:** Seamus and Linus dress like the
+  trio (dark green cloaks, patched leather). They're also waiting on an
+  unnamed hermit "buddy" who'd be "thrilled" about their map. No group
+  created.
+- **Rune Thing™** now has in-play behavior (pulses near matching
+  symbols; opened the watchtower basement) but still no defined nature.
+  Kept it unpaged and updated the note in `tavian-runewick.md`.
+- **Jaecron's gold:** the player says the sheet carries about 500 gp and
+  450 pp from a character takeover, probably more than intended. Noted on
+  his entry for the DM to settle.
+- **Minor loot left vague:** 17 gp each was awarded at the end. Of the two
+  potions of healing, one went to Tav, and the transcript doesn't clearly
+  say who holds the other. Who rang the tower bell with a crossbow and who
+  touched the basin second are also unclear.

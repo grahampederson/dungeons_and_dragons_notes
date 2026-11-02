@@ -1,7 +1,7 @@
 # Naia Stillwater
 
-**Last updated:** 2026-10-16
-**Source(s):** My backstory hurts - Graham.md, Naia Stillwater.md, Session 1.md
+**Last updated:** 2026-11-01
+**Source(s):** My backstory hurts - Graham.md, Naia Stillwater.md, Session 1.md, Session 2.md
 
 ## Summary
 Naia Stillwater, known as "The Leak," is a Water Genasi Monk with a unique backstory and a strong sense of duty. Raised in the Cistern Monastery, she learned to control water through rigorous training. After a traumatic event during a storm, she left the monastery to seek answers about her parents' fate. Naia is driven by a desire to understand the past and prove her belief in the power of discipline.
@@ -24,6 +24,13 @@ At the Hearth and Hollow, true to form, she couldn't leave a leaking window alon
 
 **Dire Wolf ambush** (on the trail behind the chapel, part of [[the-missing-children|The Missing Children]]): surprised and knocked prone by Dire Wolf 2, taking 6 damage. Stood back up and landed a critical hit (14 damage) on it, pushing it back. Later in the fight rolled a natural 1 and accidentally hit Tav's frying pan instead of a wolf. (Her in-play HP this session — 22, down to 16 after that hit — doesn't match the 17 Max HP on her character sheet; per the player, not worth tracking down.)
 
+## Session 2 — The Watchtower
+- Found a third set of dire wolf tracks that end mid-lunge (Nature 19). Suggested backtracking the wolves, which led the party to the river camp.
+- Got Bardic Inspiration from [[jaecron-daughtry|Jaecron]], then swam the river (30 ft swim speed, water breathing). The current ran *upstream*, away from [[oakhaven|Oakhaven]], and she could not let it go ("We have to fix the water"). Stole two swords, a crossbow, and a coin purse from [[seamus|Seamus]] and [[linus|Linus]]'s camp and tied a rope across for the party. Her Deception (9) to lure the men to a fake "pre-concert party" failed. Ferried the party back across on a Shape Water raft.
+- [[rowan-mercer|Rowan]]'s theory: Naia saw the river run backward, but the camp men didn't, so maybe only certain people see these changes.
+- At [[the-watchtower|the watchtower]] she had an unexplained "something seems familiar" feeling about the treasure hunters (see [[sarah|"Sarah"]]). She waited below with them before climbing up.
+- In the basement, used Shape Water to freeze the basin's upward-dripping water (it formed an upward icicle, then dispersed). She reached for the shiny object inside and was **pulled into the basin**. Session ended with the party following her.
+
 ## Related
 - [[coen-ashgrove|Coen Ashgrove]] — Naia's closest friend and fellow initiate at the Cistern Monastery.
 - [[master-ithren|Master Ithren]] — Naia's mentor and the monk who found and raised her at the Cistern Monastery.
@@ -32,6 +39,10 @@ At the Hearth and Hollow, true to form, she couldn't leave a leaking window alon
 - [[grey-pilgrim|The Grey Pilgrim]] — the lead that brought her to Oakhaven.
 - [[the-missing-children|The Missing Children]] — active quest she's working on with the party.
 - [[tavian-runewick|Tav]], [[jaecron-daughtry|Jaecron]], [[rowan-mercer|Rowan]] — fellow party members, met in Session 1.
+- [[the-watchtower|The Watchtower]] — pulled into the basin portal in its basement (Session 2).
+- [[seamus|Seamus]], [[linus|Linus]] — robbed their river camp (Session 2).
+- [[sarah|"Sarah"]] — felt an unexplained familiarity toward her (Session 2; possible link to Sera Voss, unconfirmed).
+- [[session-02|Session 2]] — recap.
 
 ## Art Reference
 **Generated:** 2026-10-15 — Stable Diffusion prompt, not campaign source material. Hair/eyes/height are unspecified in source (confirmed blank on the character sheet) and left open below rather than invented; pick and lock in a choice if one gets decided at the table.

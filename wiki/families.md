@@ -47,3 +47,8 @@ content — see each linked page for details.
 - [[clayton|Clayton]] — Jaecron's busking friend in Oakhaven, no stated family in source material.
 - [[laurel|Laurel]] — Mayor Major Deuce's assistant in Oakhaven, no stated family in source material.
 - [[major-deuce|Mayor Major Deuce]] — mayor of Oakhaven, no stated family in source material.
+- [[seamus|Seamus]] — river-camp traveler from Bristol Hold. Shares a style of dress with Varus's trio, but no stated tie.
+- [[linus|Linus]] — Seamus's companion. Same dress note as Seamus.
+- [[varus|Varus]] — leads a treasure-hunting trio. This is a working group, not a stated family or standing affiliation, so it's not given its own heading yet.
+- [[sarah|"Sarah"]] — member of Varus's trio. Possibly [[sera-voss|Sera Voss]] (Cistern Monastery), unconfirmed, so not listed under the monastery.
+- [[dunkirk|Dunkirk]] — member of Varus's trio.

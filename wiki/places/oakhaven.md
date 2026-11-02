@@ -1,7 +1,7 @@
 # Oakhaven
 
-**Last updated:** 2026-10-16
-**Source(s):** Session 1.md
+**Last updated:** 2026-11-01
+**Source(s):** Session 1.md, Session 2.md
 
 ## Summary
 Oakhaven is the town where the party — [[naia-stillwater|Naia]], [[tavian-runewick|Tav]], [[jaecron-daughtry|Jaecron]], and [[rowan-mercer|Rowan]] — first converged, each independently drawn there by the mysterious [[grey-pilgrim|Grey Pilgrim]]. Session 1 takes place almost entirely here: at the Hearth and Hollow inn, the mayor's office, and the trail behind the chapel.
@@ -17,6 +17,8 @@ Oakhaven is the town where the party — [[naia-stillwater|Naia]], [[tavian-rune
 
 **The mayor's office:** home to [[major-deuce|Mayor Major Deuce]] and his assistant [[laurel|Laurel]], who handle town business including the missing-children request.
 
+**Surroundings (Session 2):** the hidden trail runs north from the chapel into thickening woods with lots of animal life. A river (~20 ft wide) crosses the woods. Since Oakhaven is lower in elevation the river should flow toward town, but [[naia-stillwater|Naia]] found it briefly flowing the wrong way (only she seemed to notice). At the trail's end, [[the-watchtower|the watchtower]] stands on a cliff with a view over the whole town. Travelers are camping in the area ahead of the concert (about two days out as of Session 2), including [[seamus|Seamus]] and [[linus|Linus]] from Bristol Hold.
+
 ## Related
 - [[grey-pilgrim|The Grey Pilgrim]] — drew all four PCs here independently.
 - [[mara-thorne|Mara Thorne]] — innkeeper at the Hearth and Hollow.
@@ -24,4 +26,5 @@ Oakhaven is the town where the party — [[naia-stillwater|Naia]], [[tavian-rune
 - [[clayton|Clayton]] — Jaecron's busking friend, found here.
 - [[major-deuce|Mayor Major Deuce]] and [[laurel|Laurel]] — town leadership, gave the missing-children quest.
 - [[the-missing-children|The Missing Children]] — active quest centered on this town.
+- [[the-watchtower|The Watchtower]] — overlooks the town from the end of the hidden trail; the townsfolk deny it exists.
 - [[the-crooked-painting|The Crooked Painting]] — unresolved mystery at the Hearth and Hollow.
